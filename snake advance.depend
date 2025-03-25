@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573231193 source:c:\users\swoccho\documents\c++\assignment\snake advance\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<cstring>
+	<windows.h>
+
